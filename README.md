@@ -2,7 +2,7 @@
 
 Submitted by: **Ali Naqvi**
 
-This web app: **insert description**
+This web app: **Holds multiple cards, each representing a food truck with an image, name, cuisine type, and a link to view its menu. It has a visual layout and design, including colors, fonts, spacing, and responsive behavior for different screen sizes.**
 
 Time spent: **7** hours spent in total
 
